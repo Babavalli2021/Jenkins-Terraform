@@ -18,6 +18,6 @@ terraform {
 #Resource for the s3
 
 resource "aws_s3_bucket" "my_bucket" {
-    bucket = "qts3formatf"
+    bucket = "qt3data"
   
 }
